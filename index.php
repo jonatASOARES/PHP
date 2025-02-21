@@ -1,5 +1,5 @@
 <?php
 echo "Hello, World!";
-echo "Esta essa é uma linha nova 13/02/2025 pelo github"
-echo "Mais uma linha adcionada no dia 15/02/2025 pelo computador"
+echo "Esta essa é uma linha nova 13/02/2025"
+echo "Nova linha acionada partido do meu computador 21/02/2025"
 ?>
