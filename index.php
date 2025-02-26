@@ -6,4 +6,5 @@ echo "linha adicionada pelo github 21/02/2025"
 echo "Programa pronto para teste , alterado pelo meu computador. Beta.1"
 echo "novo paragrafo editado"
 echo "primeiro texto da branch editado 23/02/2025 as 16:20 "
+echo "linha editada pelo github 26/02/2025
 ?>
