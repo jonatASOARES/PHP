@@ -1,3 +1,3 @@
 <?php
-encho"cor vermelha css3" 
+encho"cor amarelo css3" 
 ?>
